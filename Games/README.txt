@@ -1,0 +1,1 @@
+Here is game information for each team based on every opponent. I only scraped the +/- of each game and the opponent becasue I don't think I need anything else, but lmk if you want addittion stats for each game.

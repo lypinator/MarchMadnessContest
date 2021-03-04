@@ -1,0 +1,1 @@
+Full Season Stats for the last 10 years. There is more data on https://www.barttorvik.com/#, but this seems the most relevant to me.
