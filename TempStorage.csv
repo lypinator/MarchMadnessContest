@@ -1,3 +1,5 @@
 GamesPlayed_HigherRank,ConfWins_HigherRank,TotalLosses_HigherRank,OffEff_HigherRank,DefEff_HigherRank,Turnovers_HigherRank,ForcedTurnovers_HigherRank,2PFGOff_HigherRank,2PFGDef_HigherRank,3PFGOff_HigherRank,3PFGDef_HigherRank,FTOff_HigherRank,FTDef_HigherRank,Rank_HigherRank,GamesPlayed_LowerRank,TotalWins_LowerRank,TotalLosses_LowerRank,OffEff_LowerRank,DefEff_LowerRank,Turnovers_LowerRank,ForcedTurnovers_LowerRank,2PFGOff_LowerRank,2PFGDef_LowerRank,3PFGOff_LowerRank,3PFGDef_LowerRank,FTOff_LowerRank,FTDef_LowerRank,Rank_LowerRank
-38,14,6,119.6,90.4,17.5,19.4,58.0,45.0,30.8,29.9,33.2,24.0,5,34,29,5,113.5,97.0,14.6,19.2,54.9,46.3,34.7,33.2,40.8,28.0,35
-32,18,5,117.3,98.2,16.1,19.1,53.9,50.6,41.4,32.6,27.8,31.8,25,35,23,12,116.8,101.8,17.2,18.4,51.4,53.5,36.4,32.4,42.3,28.8,44
+20,7,11,99.1,106.6,17.9,20.0,48.6,51.8,31.2,33.9,31.8,24.0,246,19,14,7,97.9,105.6,17.7,20.5,46.1,48.0,37.0,32.5,38.7,41.9,249
+15,9,4,110.0,97.7,16.1,17.5,44.4,47.8,33.1,30.3,41.1,29.5,66,25,24,3,110.9,99.7,15.7,18.9,54.9,49.6,37.0,29.5,25.4,30.0,74
+18,8,8,96.5,102.8,21.4,19.2,49.7,45.5,29.0,33.3,36.5,33.7,227,20,10,10,94.6,101.0,20.3,16.6,47.4,46.3,34.2,29.8,27.2,25.0,235
+23,13,6,111.6,96.7,16.3,17.7,49.9,48.5,37.0,34.8,33.4,26.5,49,24,14,10,106.3,93.9,18.8,15.2,48.1,48.2,32.7,31.1,31.1,37.8,60
